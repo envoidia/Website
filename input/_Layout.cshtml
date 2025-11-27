@@ -1,8 +1,8 @@
 @using System.Globalization
 
 @{
-    // Format path for display
-    string FormatPath() => CultureInfo.CurrentCulture.TextInfo
+    // Path formatted for display
+    string[] curPath = CultureInfo.CurrentCulture.TextInfo
     .ToTitleCase(Document.Destination.FullPath
     .Replace('_', ' ')
     .Replace(".html", "")
@@ -15,7 +15,9 @@
     .Replace(" A ", " a ")
     .Replace(" Of ", " of ")
     .Replace(" And ", " and ")
-    .Replace(" The ", " the ");
+    .Replace(" The ", " the ")
+    
+    .Split('/');
    
 }
 
@@ -24,7 +26,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta name=viewport content="width=device-width,initial-scale=1">
-    <title>@(FormatPath().Split('/')[^1].Replace("Index", "Home") + " - envoidia's website")</title>
+    <title>@(curPath[^1].Replace("Index", "Home") + " - envoidia's website")</title>
     <link href="/style.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
@@ -53,8 +55,6 @@
        .Replace(".html", "")
        .Split('/');
 
-       string[] pathsFormatted = FormatPath().Split('/');
-
        // Always put Home first
        bool onHomepage = paths[0] == "index";
        <a href="/index" class=@(onHomepage ? "loc" : "")>Home</a>
@@ -63,7 +63,7 @@
        if(!onHomepage) {
            // Add each subdirectory
            for(int i = 0; i < paths.Length; i++) {
-               <a href="@('/' + string.Join('/', paths[0..(i + 1)]))" class="@((i == paths.Length - 1) ? "loc" : "")">@pathsFormatted[i]</a>
+               <a href="@('/' + string.Join('/', paths[0..(i + 1)]))" class="@((i == paths.Length - 1) ? "loc" : "")">@curPath[i]</a>
            }
        }
     }

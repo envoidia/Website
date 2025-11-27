@@ -13,8 +13,8 @@ public static class Program {
         .CreateWeb(args)
 
         // Prevent removal of underscores from filenames
-        .AddSetting(WebKeys.OptimizeContentFileNames, false)
 
+        .AddSetting(WebKeys.OptimizeContentFileNames, false)
         .ModifyPipeline("Content", builder => {
             // Highlight code
             // todo: improve (fix strings, possibly full roslyn + colored brackets)

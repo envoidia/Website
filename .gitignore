@@ -4,6 +4,9 @@
 .idea/
 Website.sln.DotSettings.user
 
+# Obsidian files
+/input/.obsidian/
+
 # Build files
 /output/
 /temp/

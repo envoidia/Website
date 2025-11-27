@@ -20,10 +20,10 @@ Console.WriteLine(b); // Outputs 3
 
 Method parameters may use the following keywords to force arguments to be passed as a specific type of reference, with
 the following modifications:
-`ref`: Argument must be initialized
-`ref readonly`: Argument must be initialized. The method cannot assign a new value to it
-`out`: Argument may not be initialized. The method must assign a new value to it
-`in`: Argument must be initialized. The method cannot assign a new value to it. The compiler might create a temporary
+- `ref`: Argument must be initialized
+- `ref readonly`: Argument must be initialized. The method cannot assign a new value to it
+- `out`: Argument may not be initialized. The method must assign a new value to it
+- `in`: Argument must be initialized. The method cannot assign a new value to it. The compiler might create a temporary
 copy of it
 
 `out` parameters are often used as a way of creating methods with multiple return values ([tuples](./tuples) can also
