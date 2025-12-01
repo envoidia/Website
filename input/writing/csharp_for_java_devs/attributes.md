@@ -8,8 +8,6 @@ You can autogenerate a method that matches Regex like so:
 private static partial Regex AbcOrDefGeneratedRegex();
 ```
 
-todo more detail
-
 MS docs:
 
 - [Attributes](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/global)

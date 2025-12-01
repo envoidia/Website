@@ -2,10 +2,8 @@
 .vs/
 .vscode/
 .idea/
+.zed/
 Website.sln.DotSettings.user
-
-# Obsidian files
-/input/.obsidian/
 
 # Build files
 /output/

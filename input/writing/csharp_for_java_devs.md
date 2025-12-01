@@ -6,7 +6,7 @@ They are intended to accompany the official documentation, not replace it\
 They are written for .NET 10, which as of this writing is the latest version
 
 * [Anonymous Types](./csharp_for_java_devs/anonymous_types)
-* [Attributes (WIP)](./csharp_for_java_devs/attributes)
+* [Attributes](./csharp_for_java_devs/attributes)
 * [Classes](./csharp_for_java_devs/classes)
 * [Collections](./csharp_for_java_devs/collections)
 * [Deconstructors](./csharp_for_java_devs/deconstructors)
