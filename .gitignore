@@ -3,6 +3,7 @@
 .vscode/
 .idea/
 .zed/
+Website.sln.DotSettings.user
 
 # Build files
 /output/

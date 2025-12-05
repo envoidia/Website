@@ -35,16 +35,16 @@
     <div class="topnav">
         @{
             // Header component, highlighted if active
-            void NavLink(string href, string dataPage, string text) {
+            void _NavLink(string href, string dataPage, string text) {
                 <a href="@href" data-page="@dataPage" class="@(Document.Destination.FullPath.Contains(dataPage) ? "active" : "")">@text</a>
             }
 
-            NavLink("/index", "index", "Home");
-            NavLink("/about_me", "about_me", "About Me");
-            NavLink("/socials", "socials", "Socials");
-            NavLink("/projects", "projects", "Projects");
-            NavLink("/writing", "writing", "Writing");
-            NavLink("/fonts", "fonts", "Fonts");
+            _NavLink("/index", "index", "Home");
+            _NavLink("/about_me", "about_me", "About Me");
+            _NavLink("/socials", "socials", "Socials");
+            _NavLink("/projects", "projects", "Projects");
+            _NavLink("/writing", "writing", "Writing");
+            _NavLink("/fonts", "fonts", "Fonts");
         }
     </div>
 </div>
