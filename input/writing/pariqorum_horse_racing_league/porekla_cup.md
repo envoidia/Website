@@ -8,7 +8,7 @@
 
 ### Saturday, 11:00
 
-\--------
+--------
 
 “Ladies and gentlemen,” an announcer’s voice blares, “Meet the newest ponies vying to become champion of this year’s
 Porekla Cup!”
@@ -36,7 +36,7 @@ bottom of the screen, with the text “Iris has been handling horses for almost 
 Valerie’s short brown hair sparkles in the light of the twin suns as her equally brown eyes appear to pierce the camera.
 Brown takes a deep breath beside her and puts on a smile.
 
-\--------
+--------
 
 Brown seems perturbed.
 
@@ -76,7 +76,7 @@ from the sidelines, and the racetrack, dust sweeping across it with the winds, a
 Above the starting gate, a red light blinks on. All of the horses looked up at it in tandem. Then a yellow light. Then,
 at last, a green one. The starting gates all burst open at once, and the racers were off.
 
-\--------
+--------
 
 “And yellow’s off to an early lead, followed closely by blue, then brown, with white lagging behind. No one knew what
 she’s capable of, but maybe it’s not much, ha! Oh, but what’s this? Blue has shoved yellow onto the ground and taken the
@@ -109,7 +109,7 @@ all. This isn’t good enough.”
 
 She sighs, pulls out her phone, and makes a call.
 
-\--------
+--------
 
 “See, I told you you could do it!” Iris squeals excitedly, beaming at blue. “C’mon, you gotta be proud of yourself now,
 right?”
@@ -122,7 +122,7 @@ Blue finally smiles. “That sounds great Handler, thank you.”
 
 “No, thank you for winning for us!” Iris giggles, and blue laughs alongside her, albeit somewhat weakly.
 
-\--------
+--------
 
 “What the hell was that?”
 
@@ -134,7 +134,7 @@ Blue finally smiles. “That sounds great Handler, thank you.”
 
 “Let’s just go home. We’ll have to train a lot harder from now on.”
 
-\--------
+--------
 
 “Hi.”
 
@@ -159,7 +159,7 @@ don’t win.” White didn’t respond. “Let’s go home now, okay?”
 
 After a moment that felt like an eternity, white silently got up and followed Lily home.
 
-\--------
+--------
 
 Brown looks around, searching for Valerie. Yellow and Alexis walk by.
 
@@ -189,7 +189,7 @@ Brown watches them walk away, leaving her alone in this large, empty field. She 
 “Looks like it might rain soon...I’d better get home. Maybe I should’ve…no. I shouldn’t think about that.” She shakes
 her head. “Who am I even talking to? The stress has me going crazy.”
 
-\--------
+--------
 
 Results: Porekla Cup at Ashwreath Raceway
 

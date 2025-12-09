@@ -9,8 +9,7 @@ if (greeting is string message) {
 }
 ```
 
-Patterns can be used in [switch statements and expressions](./switch_statements_and_expressions). The discard
-pattern `_` matches any expression (can only be used in switch expressions, not statements)
+Patterns can be used in [switch statements and expressions](./switch_statements_and_expressions). The discard pattern `_` matches any expression (can only be used in switch expressions, not statements)
 
 ```c#
 public static int GetSourceLabel<T>(IEnumerable<T> source) => source switch {
@@ -70,8 +69,7 @@ public static Point Transform(Point point) => point switch {
 };
 ```
 
-[Collections](./collections) can be matched against a sequence of patterns. The slice pattern `..` can be used to match
-at the start or end
+[Collections](./collections) can be matched against a sequence of patterns. The slice pattern `..` can be used to match at the start or end
 
 ```c#
 int[] arr = [1, 2, 3, 4, 5];

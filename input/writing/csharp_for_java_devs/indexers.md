@@ -1,5 +1,4 @@
-When a [class](./classes) or [struct](./structs) can be indexed like a collection, you define an indexer so that it
-can be indexed with `a[b]` notation
+When a [class](./classes) or [struct](./structs) can be indexed like a collection, you define an indexer so that it can be indexed with `a[b]` notation
 
 ```c#
 public class SampleCollection<T> {

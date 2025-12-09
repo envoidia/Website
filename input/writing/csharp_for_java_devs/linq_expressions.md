@@ -1,8 +1,7 @@
 The equivalent to Java's streams. Can be written as methods or as keywords.
 
 Allows the following keywords:
-`from`, `where`, `select`, `group`, `into`, `orderby`, `join`, `let`, `in`, `on`, `equals`, `by`, `ascending`, and
-`descending`
+`from`, `where`, `select`, `group`, `into`, `orderby`, `join`, `let`, `in`, `on`, `equals`, `by`, `ascending`, and `descending`
 
 ```c#
 // Keywords:

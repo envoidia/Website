@@ -8,7 +8,7 @@
 
 ### Friday, 18:45
 
-\--------
+--------
 
 A lonely, windy plain. A run-down racetrack and abandoned bleachers. A stopwatch clicks.
 
@@ -30,7 +30,7 @@ and yet it doesn’t seem like you really care about winning.” The woman is cl
 Blue takes a while to answer. “...Nevermind.” She stands up, wobbling slightly before regaining her balance. “I think
 I’m ready to go again. I’ll get it this time, I promise.”
 
-\--------
+--------
 
 Another girl with horse-like features, this one yellow, stares wistfully across the plain at the others in the distance,
 wondering what they’re saying. But a stern voice snaps her out of it.
@@ -53,7 +53,7 @@ then I’ll- you’ll be a champion.”
 
 “Of course, Handler!”
 
-\--------
+--------
 
 As they walk away, blue watches them, the yellow hues of the setting sun reflected in her vibrant blue eyes as it sets.
 
@@ -72,7 +72,7 @@ champion!”
 The yellow hues of the first sun give way as it slips behind the horizon, leaving only the dim red glow of Crivose to
 illuminate the two as they walk home.
 
-\--------
+--------
 
 A white-haired horsegirl stands in her bedroom, trying to sleep, the dull red glow of the remaining sun tinting her so
 fiercely red that you can barely tell what color her hair really is, lighting the room through the window overlooking a
@@ -109,7 +109,7 @@ like, a 2:20 or something at Widemeadow. Even brown got a 2:05 last night.”
 As she leaves the room, she looks back towards white for a moment, almost as if she wants to say something, before
 furrowing her brow and quickly turning away.
 
-\--------
+--------
 
 A brown-furred horsegirl stands in bed, her gaze drifting to an unlabeled box in the corner of the room before snapping
 away, as if afraid to even look at it. She takes a deep breath.

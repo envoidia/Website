@@ -10,7 +10,7 @@
 
 ### Friday, 19:30
 
-\--------
+--------
 
 “I can’t believe we’re really going to be racing at the Millennium Kilometer!”, yellow exclaims, excitedly, as she looks
 out the window of the hotel the racers are staying in. “You know, this was just built, like, late last year.”
@@ -33,11 +33,11 @@ Yellow sighs.
 
 Alexis doesn’t respond.
 
-\--------
+--------
 
 Saturday, 14:00
 
-\--------
+--------
 
 “Um, hey, gray?” Brooke and gray turn to see Kate standing behind them. “Not to rush you or anything, but the race is
 about to start, so you should probably head to the gate…”
@@ -64,7 +64,7 @@ Before either can say another word, a red light illuminates the racers. The race
 clatter of the gates all opening rapidly. And, in the blink of an eye, the horses have all disappeared from the starting
 gate, as if they were never there.
 
-\--------
+--------
 
 “White breaks off from the pack and gives herself a huge lead! She’s been so close to winning so many times and never
 gotten there, but with a lead like that, maybe this will be the one! Yellow follows in second, and the rest of the pack
@@ -75,7 +75,7 @@ battling for the lead! Cyan is in the lead and it’s a straight shot to the fin
 trips and drops to dead last as orange very narrowly beats out white! But that’s not all, folks! We have something very
 special for the winner…”
 
-\--------
+--------
 
 Orange is in disbelief.
 
@@ -111,11 +111,11 @@ Orange squints at it, unsure if she’s reading it correctly.
 
 “Jovial Merryment!”
 
-\--------
+--------
 
 Results: Novum Derby at The Millennium Kilometer
 
-1st: Merry (3:29.07)
+{.h-merry}1st: Merry (3:29.07)
 
 2nd: white (3:30.58)
 

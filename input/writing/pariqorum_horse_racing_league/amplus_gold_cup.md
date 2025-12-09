@@ -10,7 +10,7 @@
 
 ### Saturday, 11:20
 
-\--------
+--------
 
 “Hey, uh, Handler, can I talk to you for a second?”
 
@@ -51,7 +51,7 @@ She already knew the answer.
 Crouched behind a nearby garbage can, a figure obscured in shadow swallows nervously, something about what they just
 overheard greatly bothersome to them.
 
-\--------
+--------
 
 “And now it is with great pleasure that I introduce the racers for today’s Amplus Gold Cup! There’s yellow and gray,
 still striving to earn their names! Bullet’n Board, the blue horse! Door Knob, the brown horse! Jovial Merryment, the
@@ -92,7 +92,7 @@ The door closes with a click as Ivy dials a number on her phone. It’s picked u
 The room falls silent except for the muffled sounds of the television, its pale flickering light illuminating Ivy’s face
 as she intently listens to what the other side has to say.
 
-\--------
+--------
 
 “Hey, where are white and cyan?”, yellow asks as she looks around.
 
@@ -152,11 +152,11 @@ loosened teardrops fly across the track, splattering on the dirt.
 
 *I’m a failure.*
 
-\--------
+--------
 
 Results: Amplus Gold Cup at Gleaming Raceway
 
-1st: Merry (2:33.56)
+{.h-merry}1st: Merry (2:33.56)
 
 2nd: red (2:40.32)
 
@@ -164,9 +164,9 @@ Results: Amplus Gold Cup at Gleaming Raceway
 
 4th: pink (2:43.78)
 
-5th: Knob (2:44.16)
+{.h-knob}5th: Knob (2:44.16)
 
-6th: Bullet (2:44.94)
+{.h-bullet}6th: Bullet (2:44.94)
 
 7th: yellow (DNF)
 

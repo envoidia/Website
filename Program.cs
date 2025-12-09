@@ -4,8 +4,8 @@ using Statiq.Minification;
 namespace Website;
 
 /* todo:
-       - fix header formatting on mobile (black border, directory pushed too far up)
-       - fix code blocks on mobile (they don't wrap)
+    - fix header formatting on mobile (black border, directory pushed too far up)
+    - fix code blocks on mobile (they don't wrap)
 */
 public static class Program {
     public static async Task<int> Main(string[] args) => await Bootstrapper

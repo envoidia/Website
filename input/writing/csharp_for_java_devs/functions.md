@@ -4,8 +4,7 @@ Functions can be expression-bodied rather than block-bodied. They can also be lo
 public string GetGlyph(InputDevice inputDevice) => FormatSingleGlyph(button.GetSingleGlyph(), inputDevice);
 ```
 
-Function parameters can have default values, which you can omit. You can specify specific ones to include when calling
-the function
+Function parameters can have default values, which you can omit. You can specify specific ones to include when calling the function
 
 ```c#
 private int Foo(int bar, char lorem = 'a', string ipsum = "dolor", ulong sit = 12, bool isAmet = false) {}

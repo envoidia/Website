@@ -2,17 +2,16 @@ Switch statements are the same as Java, but can use [pattern matching](./pattern
 
 `goto case` can be used to jump to a different `case`. You generally shouldn't use this
 
-Switch expressions are declared with slightly different syntax. They can take up an entire function body. `_` matches
-`default`
+Switch expressions are declared with slightly different syntax. They can take up an entire function body. `_` matches `default`
 
 You may add case guards that must be matched alongside patterns with `when` and a boolean value
 
 ```c#
-public static Point Transform(Point point) => point switch {
-	{ X: 0, Y: 0 } => new Point(0, 0),
-	X < Y => new Point(X + Y, Y),
-	X > Y => new Point(X - Y, Y),
-	_ => new Point(2 * X, 2 * Y),
+static Point Transform(Point point) => point switch {
+    { X: 0, Y: 0 } => new Point(0, 0),
+    { X: int x, Y: int y } when x < y => new Point(x + y, y),
+    { X: int x, Y: int y } when x > y => new Point(x - y, y),
+    { X: int x, Y: int y } => new Point(2 * x, 2 * y),
 };
 ```
 

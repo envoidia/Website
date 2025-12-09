@@ -88,7 +88,40 @@ pre {
     color: #66c8cc;
 }
 
+/* Honse */
+.h-merry {
+    color: #ff6100;
+}
 
+.h-knob {
+    color: #d2691e;
+}
+
+.h-box {
+    color: #bfbfbf;
+}
+
+.h-resolute {
+    color: #ff3636;
+}
+
+.h-bullet {
+    color: #4169e1;
+}
+
+.h-super-amf {
+    color: #ffffff;
+}
+
+.h-bin {
+    color: #00ffff;
+}
+
+.h-knifemare {
+    color: #838383;
+}
+
+/* Header */
 .header {
     display: flex;
     align-items: center;
@@ -183,6 +216,10 @@ tr:nth-child(even) {
 
 .table1 {
     width: 180%
+}
+
+hr {
+    color: #ac83ac;
 }
 
 /* Mobile-only line breaks */

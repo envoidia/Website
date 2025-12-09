@@ -10,7 +10,7 @@
 
 ### Unknown Time
 
-\--------
+--------
 
 Red light. Yellow light. Green light. The oh-so-familiar clattering of metal. Let another race begin, just as it has so
 many times before. But this time, something is different.
@@ -32,11 +32,11 @@ white, its deteriorating veins bulging all over its body.
 “Let’s just say I have a good feeling about some of the old guard. What remains of them, anyway” She turns to her
 compatriot. “Now then, subject C7C has earned a name, don’t you agree?”
 
-\--------
+--------
 
 Results: ???
 
-1st: A Mysterious Figure (1:40.00)
+{.h-super-amf}1st: A Mysterious Figure (1:40.00)
 
 2nd: 009 (DNF)
 
@@ -50,7 +50,7 @@ Results: ???
 
 7th: 005 (DNF)
 
-\--------
+--------
 
 The trials continue for what feels like forever, the horses, if they can even be called that anymore, ran ragged, until
 finally, another one of them happens to stumble its way to the finish carrot.
@@ -62,11 +62,11 @@ One of the scientists flips through his clipboard, a perturbed look on his face.
 “Must have been some record-keeping error,” responds Ivy, nonchalantly. “The lighter blue one of them just won, so it’s
 getting a name anyway.”
 
-\--------
+--------
 
 Results: ???
 
-1st: Garbage Bin (0:48.27)
+{.h-bin}1st: Garbage Bin (0:48.27)
 
 2nd: 2B5 (DNF)
 
@@ -78,7 +78,7 @@ Results: ???
 
 6th: 005 (DNF)
 
-\--------
+--------
 
 “Aaand subject 003 wins.” The scientist sighs. “Are we done now, Mrs. Meadows? We’ve been here for ages.”
 
@@ -99,11 +99,11 @@ The scientist nods.
 
 She smiles at him and walks away, putting her phone to her ear.
 
-\--------
+--------
 
 Results: ???
 
-1st: Nighttime Knifemare (0:52.00)
+{.h-knifemare}1st: Nighttime Knifemare (0:52.00)
 
 2nd: 009 (DNF)
 

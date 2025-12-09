@@ -1,16 +1,15 @@
 Classes can be:
-`abstract`
-`sealed`: Equivalent to Java's `final`; there is no equivalent to Java's `sealed`
-`static`: Everything contained within must be `static`
-`record`: Mostly the same as Java. Can also be declared with `record class` to disambiguate from `record struct`s. todo
+- `abstract`
+- `sealed`: Equivalent to Java's `final`; there is no equivalent to Java's `sealed`
+- `static`: Everything contained within must be `static`
+- `record`: Mostly the same as Java. Can also be declared with `record class` to disambiguate from `record struct`s. todo
 more detail
 
 `this` is the same. `base` is used instead of `super`
 
 Inheritance is much the same, but instead of `extends` or `implements`, you use the `:` operator
 
-Interface names should be prefixed with `I` to make up
-for lost clarity from lack of a specific keyword
+Interface names should be prefixed with `I` to make up for lost clarity from lack of a specific keyword
 
 In order to call the base constructor, use the `:` operator before the constructor body
 
@@ -20,8 +19,7 @@ public class Foo : Bar {
 }
 ```
 
-Classes can have primary constructors (much like records). Primary constructor fields can be used directly, or given
-to [properties](./properties)
+Classes can have primary constructors (much like records). Primary constructor fields can be used directly, or given to [properties](./properties)
 
 ```c#
 public class Foo(int lorem, string ipsum, char dolor) : Bar(lorem, ipsum) {
@@ -29,8 +27,7 @@ public class Foo(int lorem, string ipsum, char dolor) : Bar(lorem, ipsum) {
 }
 ```
 
-When overriding, you must use the `override` keyword. Only `virtual`, `abstract`, or `override` members can be
-overridden
+When overriding, you must use the `override` keyword. Only `virtual`, `abstract`, or `override` members can be overridden
 
 `new` can be used to hide a member inherited from a base class
 

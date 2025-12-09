@@ -30,8 +30,7 @@ a ??= 10; // a is still 5
 Console.WriteLine(a ?? 8); // Outputs 5
 ```
 
-`?.` and `?[]` can be used to access or assign a member or element only if it isn't `null`, and are short-circuiting (a
-chain of operations will stop at a fail)
+`?.` and `?[]` can be used to access or assign a member or element only if it isn't `null`, and are short-circuiting (a chain of operations will stop at a fail)
 
 MS docs:
 

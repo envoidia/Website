@@ -1,8 +1,7 @@
-Object initializers allow you to set various fields on an object at creation without invoking a constructor. Never write
-another builder again!
+Object initializers allow you to set various fields on an object at creation without invoking a constructor. Never write another builder again!
 
 ```c#
-public class Cat {}
+public class Cat {
     public int Age { get; set; }
     public string? Name { get; set; }
 

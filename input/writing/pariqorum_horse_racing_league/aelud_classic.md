@@ -10,7 +10,7 @@
 
 ### Saturday, 13:15
 
-\--------
+--------
 
 Yellow grunts as Merry shoves her against a wall tucked away in the corner of the track.
 
@@ -38,7 +38,7 @@ But it’s too late. Merry is gone.
 “What the hell is wrong with that girl…”, yellow says to herself, before letting out a halfhearted chuckle born mostly
 of confusion. She doesn’t even bother attempting to continue the race.
 
-\--------
+--------
 
 “And somehow, even after seemingly throwing, Jovial Merryment wins yet another race! At this point I don’t know why we
 even bother holding competitions folks, just give Merry the Colorline trophy and be done with it, since it’s pretty
@@ -53,19 +53,19 @@ She pulls out her phone, and makes a call.
 “I have a proposal – something to make Colorline a little more, shall we say, interesting. And our ratings more
 favorable, of course.”
 
-\--------
+--------
 
 Results: Aelud Classic at Crystal Park
 
-1st: Merry (2:18.52)
+{.h-merry}1st: Merry (2:18.52)
 
-2nd: Knob (2:19.65)
+{.h-knob}2nd: Knob (2:19.65)
 
-3rd: Box (2:22.38)
+{.h-box}3rd: Box (2:22.38)
 
-4th: Resolute (2:23.38)
+{.h-resolute}4th: Resolute (2:23.38)
 
-5th: Bullet (2:24.04)
+{.h-bullet}5th: Bullet (2:24.04)
 
 6th: pink (2:24.68)
 

@@ -10,7 +10,7 @@
 
 ### Unknown Time
 
-\--------
+--------
 
 A twisted maze, barely lit at all, some parts shrouded entirely in darkness. Five horses, or perhaps more accurately,
 two horses and three monsters. This is the race we’ve all been waiting for. The final race of this season of the
@@ -111,15 +111,15 @@ the Pariqorum Horse Racing League will have to find a way to top this.
 
 But, for now, the room is still, two broken figures intertwined at the center in a pool of what was once their own life.
 
-\--------
+--------
 
 Results: Colorline at ???
 
-1st: Garbage Bin (7:14.19)
+{.h-bin}1st: Garbage Bin (7:14.19)
 
-2nd: A Mysterious Figure (DNF)
+{.h-super-amf}2nd: A Mysterious Figure (DNF)
 
-3rd: Nighttime Knifemare (DNF)
+{.h-knifemare}3rd: Nighttime Knifemare (DNF)
 
 4th: \[erased] (DNF)
 

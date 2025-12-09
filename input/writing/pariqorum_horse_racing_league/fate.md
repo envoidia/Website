@@ -10,7 +10,7 @@
 
 ### Unknown Time
 
-\--------
+--------
 
 Super’s eyes slowly drift open.
 
@@ -57,11 +57,11 @@ Super tries her best to look away from its unsettling gaze, bringing her hand to
 
 No one responds.
 
-\--------
+--------
 
 Results: ???
 
-1st: Super (3:16.15)
+{.h-super-amf}1st: Super (3:16.15)
 
 2nd: A Mysterious Figure (DNF)
 

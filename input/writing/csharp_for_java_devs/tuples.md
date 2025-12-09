@@ -1,5 +1,4 @@
-A tuple is an arbitrarily-sized collection of arbitrary variables stored as a value type. They are commonly used as
-method return types to avoid using [`out` method parameters](./references)
+A tuple is an arbitrarily-sized collection of arbitrary variables stored as a value type. They are commonly used as method return types to avoid using [`out` method parameters](./references)
 
 ```c#
 (double, int) tuple = (4.5, 3);
@@ -19,8 +18,7 @@ float c = 8.5;
 (short, char, float) tuple = (a, b, c);
 ```
 
-All three of the above tuple definitions result in items named `a`, `b`, and `c`. Even with explicit names, you can also
-use the default names (`Item1` etc)
+All three of the above tuple definitions result in items named `a`, `b`, and `c`. Even with explicit names, you can also use the default names (`Item1` etc)
 
 You can set an alias for a tuple type with a `using` or `global using` directive
 

@@ -6,6 +6,5 @@ It will be assumed that you know Java to a decent extent
 
 These docs are written for .NET 10, which as of this writing is the latest version
 
-If you want to make a game with C#, I recommend [MonoGame](https://monogame.net/). If you prefer something with a visual
-editor, try [Godot](https://godotengine.org/)
+If you want to make a game with C#, I recommend [MonoGame](https://monogame.net/)
 

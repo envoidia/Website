@@ -10,7 +10,7 @@
 
 ### Saturday, 09:00
 
-\--------
+--------
 
 “I had to get up so goddamn early for this. What a pain,” Valerie glares at brown, “You better at least win this time.
 Though I doubt if you even want to, considering-”
@@ -51,7 +51,7 @@ Alexis gives Kate a terrifying fierce stare, as if she’s contemplating doing s
 “My apologies. I’ll get out of your hair, miss organizer.” Alexis’ voice is curt and tart. As soon as she’s done
 speaking, she strides away, motioning for yellow to follow her to the starting gate.
 
-\--------
+--------
 
 “First up we have blue and her handler Iris, winner of this year’s Porekla Cup, and naturally the favorite to win here
 as well! Next, there’s the close second of yellow and her handler Alexis, followed by the underdog brown and her handler
@@ -75,7 +75,7 @@ woman’s.
 Adelyn seems overdressed compared to the competition, wearing a dapper black suit, with shortly-cut bright silver hair
 and blue eyes situated behind large-framed glasses. Orange stands beside her, visibly nervous.
 
-\--------
+--------
 
 As everyone converges on the starting gate, Adelyn side-eyes Valerie judgmentally.
 
@@ -104,14 +104,14 @@ before she leaves. “Besides, seems like her horse is taking it seriously at le
 
 Just as everyone gets into position, the starting light lights up. Red. Yellow. Green. And they’re off.
 
-\--------
+--------
 
 “Looks like gray is in the lead, but cyan is catching up, with blue, the previous winner, falling behind. What an
 unexpected start to the race! But still, anything can happen, and yellow’s taking the lead, perhaps trying to avenge her
 previous loss by mere seconds, oh, but she’s slowing down and brown is catching up! Orange takes the lead as the racers
 round the final bend...and suddenly cyan comes from behind, taking the lead out of nowhere on the final straightaway!”
 
-\--------
+--------
 
 Step after step, cyan draws ever closer to the finish carrot. Just a little further. Just a few more steps.
 
@@ -135,7 +135,7 @@ taken away from her. She almost wants to cry.
 She grasps onto the fence at the edge of the track and pulls herself up, leaning on it to regain her breath for a moment
 before walking away. Such a close loss frustrated her, but also filled her with confidence that she can win next time.
 
-\--------
+--------
 
 “Wow, that’s one of the most incredible comebacks I’ve ever seen! Cyan had such a huge lead, but somehow yellow caught
 up and made up for the close loss she had in the Porekla Cup! The season has just started and already these games are
@@ -146,7 +146,7 @@ The TV turns off.
 
 “Better,” the old woman mutters to herself, smiling gently.
 
-\--------
+--------
 
 Yellow picks up the large plastic finish carrot and hoists it onto her shoulders. Alexis sighs.
 
@@ -188,7 +188,7 @@ better.” She pauses for a moment, neither of them quite sure what to say, befo
 
 White follows behind her, unable to look her in the eye the whole way home.
 
-\--------
+--------
 
 Results: Redgrass Stakes at Dullahan Park
 

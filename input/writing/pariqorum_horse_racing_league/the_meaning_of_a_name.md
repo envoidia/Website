@@ -8,7 +8,7 @@
 
 ### Saturday, 11:15
 
-\--------
+--------
 
 A gleaming silver indoor racetrack, windowless and lit only by long LED strips installed on the edges of the room,
 seemingly completely deserted except for two figures locked in an intense battle, racing side-by-side.
@@ -75,11 +75,11 @@ Cyan laughs. An empty, cold laugh, the laugh of someone that has nothing left to
 
 “Yeah,” cyan sighs, “I’ve heard that one before.”
 
-\--------
+--------
 
 Results: ???
 
-1st: Super (7:14.02)
+{.h-super-amf}1st: Super (7:14.02)
 
 2nd: cyan (7:14.23)
 

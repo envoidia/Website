@@ -10,7 +10,7 @@
 
 ### Unknown Time
 
-\--------
+--------
 
 “Agh…”, cyan winces as she sits up, grasping her head with both hands.
 
@@ -95,7 +95,7 @@ front of her face, obscuring her expression.
 “So…”, cyan says, speaking out loud for the first time in a while, her voice raspy from so much crying. “In the end,
 it’s always been a game. And now I know too much.”
 
-\--------
+--------
 
 Results: ???
 
