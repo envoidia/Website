@@ -1,20 +1,21 @@
-Functions can be expression-bodied rather than block-bodied. They can also be local (contained within another function)
-
+Functions can be expression-bodied rather than block-bodied
 ```c#
 public string GetGlyph(InputDevice inputDevice) => FormatSingleGlyph(button.GetSingleGlyph(), inputDevice);
 ```
 
+They can also be local (contained within another function)
+
 Function parameters can have default values, which you can omit. You can specify specific ones to include when calling the function
 
 ```c#
-private int Foo(int bar, char lorem = 'a', string ipsum = "dolor", ulong sit = 12, bool isAmet = false) {}
+public int Foo(int bar, char lorem = 'a', string ipsum = "dolor", ulong sit = 12, bool isAmet = false) { }
 
 Foo(10);  
 Foo(10, 'a', "abc", 500, true);  
 Foo(10, ipsum: "abcde", isAmet: true);
 ```
 
-Lambdas are `=>` rather than `->`. Lambdas can be declared `static`
+Lambdas are `=>` rather than `->`. They can be declared `static`
 
 `delegate` defines a delegate type, which stores a function. In most cases, just use the stdlib `Action` and `Func` delegates. Defining a custom delegate just lets you give it a unique type and param names
 

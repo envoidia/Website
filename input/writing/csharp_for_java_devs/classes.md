@@ -12,18 +12,25 @@ Inheritance is much the same, but instead of `extends` or `implements`, you use 
 Interface names should be prefixed with `I` to make up for lost clarity from lack of a specific keyword
 
 In order to call the base constructor, use the `:` operator before the constructor body
-
 ```c#
 public class Foo : Bar {
-	public Foo(int lorem) : base(lorem, "Ipsum", 10) {}
+	public Foo(int lorem) : base(lorem, "Ipsum", 10) { }
 }
 ```
 
 Classes can have primary constructors (much like records). Primary constructor fields can be used directly, or given to [properties](./properties)
-
 ```c#
 public class Foo(int lorem, string ipsum, char dolor) : Bar(lorem, ipsum) {
 	public int Dolor => dolor;
+}
+```
+
+There are no `init` blocks. Just put the code in a constructor. Instead of `static init`, you can use a static constructor
+```c#
+public class Foo {
+	static Foo() {
+		// Runs once on class load
+	}
 }
 ```
 
