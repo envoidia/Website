@@ -6,6 +6,7 @@ namespace Website;
 /* todo:
     - fix header formatting on mobile (black border, directory pushed too far up)
     - fix code blocks on mobile (they don't wrap)
+    - fix syntax highlighting (it doesn't understand interpolated/raw strings, and has issues with @ and sometimes < )
 */
 public static class Program {
     public static async Task<int> Main(string[] args) => await Bootstrapper

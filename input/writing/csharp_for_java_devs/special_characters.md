@@ -10,6 +10,7 @@ Console.WriteLine($"a is {a} and b * 3 + a is {b * 3 + a}"); // Outputs a is 5 a
 
 The verbatim identifier `@` defines a verbatim string literal, a string where most escape sequences are interpreted literally. The only sequences that are not interpreted literally are quote escape sequences and interpolated string brace escape sequences
 
+(Note: `&#64;` is `@`)
 ```c#
 // These both produce the same string
 string filename1 = @"c:\documents\files\u0066.txt";

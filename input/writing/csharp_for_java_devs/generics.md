@@ -15,6 +15,7 @@ Constraints:
 
 In this case, `Foo`'s `T` must extend `Bar` and have a public parameterless constructor, and `U` must be a `struct`:
 
+(Note: `&lt;` is `<`)
 ```c#
 public class Foo<T, U>
 	where T : Bar<T>, new()

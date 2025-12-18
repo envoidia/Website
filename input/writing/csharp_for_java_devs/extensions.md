@@ -1,5 +1,6 @@
-Extensions allow you to add members to an existing type without modifying it, so they can be called with `this` syntax. You can name the extension variable anything, but `@this` is the most common
+Extensions allow you to add members to an existing type without modifying it, so they can be called with `this` syntax. You can name the extension variable anything, but [`@this`](./special_characters.md) is the most common
 
+(Note: `&#64;` is `@`)
 ```c#
 extension(string @this) {
 	public int WordCount() => @this.Split([' ', '.', '?'], StringSplitOptions.RemoveEmptyEntries).Length;
