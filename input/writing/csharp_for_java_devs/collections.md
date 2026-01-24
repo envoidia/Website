@@ -42,7 +42,7 @@ Console.WriteLine(arr3d[2, 1, 1]); // Outputs 17
 
 `Dictionary<TKey, TValue>` is equivalent to Java's `HashMap<K, V>`
 
-`Span<T>` is a `ref struct` that provides a type-safe and memory-safe view into a contiguous region of arbitrary memory, allowing for a snapshot of elements without copying them. It can be used to implement similar behavior to Java's `subList`, among other things
+`Span<T>` is a `ref struct` that provides a type-safe and memory-safe view into a contiguous region of arbitrary memory, allowing for a snapshot of elements without copying them. It's basically a non-allocating array. There's also `ReadOnlySpan<T>`
 
 `Memory<T>` is similar to `Span<T>`, but it is not a `ref struct`, and therefore can be placed on the managed heap
 
