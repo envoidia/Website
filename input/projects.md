@@ -29,19 +29,25 @@ Development started: 19 Apr 2023; Release: TBD; Last updated: 26 Jun 2025
 A massive GregTech 1.12 addon that adds several new tiers of advanced endgame progression, technology, and machines.
 Unfinished, but mostly complete. Completion is dependent on features from a not-yet-released update to base GregTech
 
-## [Discord CSS](https://github.com/envoidia/discord-css)
-
-Development started: ~2021; Last updated: 18 Jan 2026
-
-Custom CSS to make Discord better. Consists of separate modules. debloat.css removes a great deal of ads and clutter.
-The others bring visual improvements such as customizable gradients and a custom theme
-
 ## [This website](https://github.com/envoidia/website)
 
 Development started: 18 Feb 2025; Last updated: {{ UPDATE_DATE }}
 
+## [Discord CSS](https://github.com/envoidia/discord-css)
+
+Development started: ~2021; Last updated: 07 Feb 2026
+
+Custom CSS to make Discord better. Consists of separate modules. debloat.css removes a great deal of ads and clutter.
+The others bring visual improvements such as customizable gradients and a custom theme
+
 ## [VSCode Config](https://github.com/envoidia/vscode-config)
 
-Development started: 16 Dec 2025; Last updated: 03 Jan 2026
+Development started: 16 Dec 2025; Last updated: 07 Feb 2026
 
-My personal VSCode config and a guide to my extensions and keybinds. Really just for me, but available to anyone just in case
+My personal VSCode config and extension list, with a guide to my keybinds
+
+## [Misc Config](https://github.com/envoidia/misc-config)
+
+Development started: ~2025; Last updated: 07 Feb 2026
+
+My personal config for some things

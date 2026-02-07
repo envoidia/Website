@@ -1,4 +1,5 @@
-This will serve as a place to fill with my writing and other creative works, links to various things, and possibly some
-other stuff
+This site primarily serves as a host for my projects.
+
+Pronouns: She/Her
 
 Site last updated: {{ UPDATE_DATE }}
