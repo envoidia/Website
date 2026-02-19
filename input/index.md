@@ -1,4 +1,4 @@
-This site primarily serves as a host for my projects.
+This site primarily serves as a host for my projects
 
 Pronouns: She/Her
 
