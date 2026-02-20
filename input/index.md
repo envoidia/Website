@@ -1,5 +1,5 @@
 This site primarily serves as a host for my projects
 
-Pronouns: She/Her
+Pronouns: it
 
 Site last updated: {{ UPDATE_DATE }}
