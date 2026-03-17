@@ -27,8 +27,6 @@ Development started: 19 Apr 2023; Release: TBD; Last updated: 26 Jun 2025
 A massive GregTech 1.12 addon that adds several new tiers of advanced endgame progression, technology, and machines.
 Unfinished, but mostly complete. Completion is dependent on features from a not-yet-released update to base GregTech
 
-## [Discord Themes](https://github.com/envoidia/discord-css)
+## [dotfiles](https://github.com/envoidia/dotfiles)
 
-Development started: ~2021; Last updated: 16 Feb 2026
-
-Custom CSS to make Discord better to use, hiding nitro ads and decluttering the UI
+My personal config for stuff
